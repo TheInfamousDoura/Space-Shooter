@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653998984 source:d:\codeblocks projects\computer_graphics_game\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+	<stdbool.h>
+
